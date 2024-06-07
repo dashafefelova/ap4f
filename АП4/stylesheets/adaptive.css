@@ -1,0 +1,23 @@
+
+
+@media screen and (min-width: 415px) and (max-width: 768px) {
+    /* .flotheater2{
+        position: relative;
+        margin: auto;
+        overflow: hidden;
+        width: 250vw;
+        height: 60vh;
+        bottom:55vh;
+        right: 150vw;
+        animation: moveflo 20s linear infinite; 
+    }
+    
+    @keyframes moveflo{
+        from{ text-indent: 100%;}
+        to{ text-indent: -100%;}
+    } */
+}
+
+@media screen and (max-width: 414px) {
+
+}

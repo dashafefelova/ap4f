@@ -1,0 +1,6 @@
+@import "reset.css";/* сбрoc настроек браузера */
+@import "content.css"; /* контент / содержимое  */
+@import "adaptive.css";/* адаптивность */
+@import "about.css"; /* контент / содержимое  */
+@import "3d.css"; /* контент / содержимое  */
+@import "shop.css"; /* контент / содержимое  */

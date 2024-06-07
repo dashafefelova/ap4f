@@ -1,0 +1,142 @@
+body{
+    background-color: #D0D0D0;
+    height:500px;
+    width: auto;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+}
+
+:root{
+    font-family: 'Montserrat';
+}
+
+#logo{
+    width: 5vw;
+    color: #E973CF;
+    font-weight: 550;
+    font-size: 1.4vw;
+}
+
+#logo:hover{
+    color: #FFF282;
+}
+
+.pinkbuttons{
+    width: 5vw;
+    color: #E973CF;
+    font-size: 1vw;
+}
+
+.yellowbuttons{
+    color: #FFF282;
+    font-size: 1vw;
+}
+
+/* шапка */
+
+header{
+    position: relative;
+    top: 1.5vw;
+    left: 1.5vw;
+    width: 10vw;
+}
+
+#abouttheater:hover{
+    color: #D8FFB9;
+}
+
+#abouttheater{
+    position: relative;
+    top: 0.5vw;
+    left: 1.5vw;
+}
+
+#threedtour:hover{
+    color: #D8FFB9;
+}
+
+#threedtour{
+    position: relative;
+    top: 1vw;
+    left: 4vw;
+}
+
+#repertoire:hover{
+    color: #D8FFB9;
+}
+
+#repertoire{
+    position: relative;
+    top: 1.5vw;
+    left: 3vw;
+}
+
+#magazine:hover{
+    color: #D8FFB9;
+}
+
+#magazine{
+    position: relative;
+    top: 2vw;
+    left: 1vw;
+}
+
+#shop:hover{
+    color: #D8FFB9;
+}
+
+#shop{
+    position: relative;
+    top: 2.5vw;
+    left: 2.5vw;
+}
+
+#aboutunusual:hover{
+    color: #D8FFB9;
+}
+
+#aboutunusual{
+    position: relative;
+    top: 3vw;
+    left: 3.5vw;
+}
+
+/* цветной левый текст */
+.textleftone{
+    position: relative;
+    display: flex;
+    justify-content: start;
+    left: 1.5vw;
+    top: 15vw;
+    line-height: 1.2;
+    font-size: 1.2vw;
+    font-weight: 450;
+}
+
+.yellowcolortext {
+    color: #FFF282;
+}
+
+.pinkcolortext{
+    color: #FFADEB;
+}
+
+.greencolortext{
+    color: #D8FFB9;
+}
+
+
+.textlefttwo{
+    position: relative;
+    display: flex;
+    justify-content: start;
+    left: 4vw;
+    top: 15vw;
+    line-height: 1.2;
+    font-size: 1.2vw;
+    font-weight: 450;
+}
+
